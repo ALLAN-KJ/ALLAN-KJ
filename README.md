@@ -16,7 +16,7 @@
 </p>
 
 <a href="https://allan-kj.github.io/Allan-portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=F43F5E&center=true&vCenter=true&width=700&lines=Cybersecurity+Specialist+%26+Threat+Researcher;Smart+India+Hackathon+'24+Finalist+(NTRO);Full-Stack+%26+3D+Creative+Web+Developer;Creator+of+IPsec+Sentinel+%26+GHOST+AI;Crafting+Fast%2C+Immersive+%26+Secured+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=F43F5E&center=true&vCenter=true&width=700&lines=Cybersecurity+Specialist+%26+Threat+Researcher;Full-Stack+%26+3D+Creative+Web+Developer;Smart+India+Hackathon+Developer+(PS+26160);Creator+of+IPsec+Sentinel+%26+GHOST+AI;Crafting+Fast%2C+Immersive+%26+Secured+Systems" alt="Typing SVG" />
 </a>
 
 </div>
@@ -30,15 +30,14 @@
   "operator": "Allan K.J",
   "specialization": "Cybersecurity & Network Defense",
   "education": "B.Tech Computer Science & Engineering (Cybersecurity) @ Karunya University",
-  "key_achievement": "Smart India Hackathon 2024 Finalist (NTRO | IPsec Sentinel)",
   "core_stack": ["Next.js 15", "TypeScript", "Three.js", "Python", "IPsec/IKEv2", "XGBoost"],
   "mission": "Bridging hardcore offensive & defensive security with cutting-edge 3D interactive interfaces"
 }
 ```
 
-- 🏆 **Smart India Hackathon 2024 Finalist**: Selected by the **National Technical Research Organisation (NTRO)** for **IPsec Sentinel** — an AI-powered IPsec VPN analyzer with XGBoost risk classification, Post-Quantum Cryptography (PQC) readiness scoring, and Merkle tree audit trails.
 - 🌐 **3D Creative Web Architecture**: Engineer behind bespoke WebGL/Three.js interactive experiences with Miles Morales-inspired glitch kinetics, responsive 60fps renders, and custom shader pipelines.
 - 🛡️ **Cybersecurity Research**: Passionate about penetration testing, network packet inspection, vulnerability assessment, and Post-Quantum cryptographic transitions.
+- 💻 **Smart India Hackathon (SIH)**: Built and deployed **IPsec Sentinel** for Problem Statement 26160 — an AI-powered IPsec VPN analyzer with XGBoost risk classification, Post-Quantum Cryptography (PQC) readiness scoring, and Merkle tree audit trails.
 - 💼 **Professional Experience**: Software engineering & security intern at Quaro; actively developing autonomous voice and security workflows with **GHOST AI**.
 
 ---
@@ -86,7 +85,7 @@
 | Project | Highlights & Capabilities | Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **🌐 3D Interactive Portfolio** | High-performance 3D portfolio featuring interactive WebGL hero, responsive terminal emulator, Miles Morales chromatic glitch kinetic typography, and audio-reactive elements. | `Next.js 15` `Three.js` `R3F` `GSAP` `Tailwind` | [Live Site](https://allan-kj.github.io/Allan-portfolio/) • [Source](https://github.com/ALLAN-KJ/Allan-portfolio) |
-| **🛡️ IPsec Sentinel (SIH '24)** | AI-powered IPsec VPN security analyzer selected for Smart India Hackathon 2024 (NTRO, PS-26160). Evaluates tunnel configurations, predicts vulnerabilities via XGBoost, assesses PQC readiness, and maintains Merkle audit trails. | `Python` `XGBoost` `IKEv2` `PQC` `FastAPI` | [Repository](https://github.com/ALLAN-KJ/SIH-2026-demo) |
+| **🛡️ IPsec Sentinel (SIH PS-26160)** | AI-powered IPsec VPN security analyzer developed for Smart India Hackathon Problem Statement 26160. Evaluates tunnel configurations, predicts vulnerabilities via XGBoost, assesses PQC readiness, and maintains Merkle audit trails. | `Python` `XGBoost` `IKEv2` `PQC` `FastAPI` | [Repository](https://github.com/ALLAN-KJ/SIH-2026-demo) |
 | **🤖 GHOST AI Assistant** | Autonomous voice-controlled AI desktop assistant with custom system command automation, natural language processing, and cybersecurity utilities. | `Python` `SpeechRecognition` `NLP` `Automation` | [Repository](https://github.com/ALLAN-KJ/GHOST2) |
 | **📖 3D Interactive Web Book** | An educational 3D interactive book reader built with canvas WebGL rendering, realistic page-turning physics, and custom camera tracking. | `Next.js` `Three.js` `Canvas` `GSAP` | [Repository](https://github.com/ALLAN-KJ/BOOK) |
 
@@ -120,7 +119,7 @@
 
 ### 🤝 Let's Connect & Collaborate
 
-Whether you're looking to collaborate on cutting-edge cybersecurity research, construct immersive 3D web experiences, or discuss AI engineering:
+Whether you're looking to collaborate on cybersecurity research, construct immersive 3D web experiences, or discuss software engineering:
 
 [![Website](https://img.shields.io/badge/Portfolio-allan--kj.github.io-E11D48?style=for-the-badge&logo=google-chrome&logoColor=white)](https://allan-kj.github.io/Allan-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Allan%20K.J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allan-k-j-21389838a)
