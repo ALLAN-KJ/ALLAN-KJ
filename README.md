@@ -4,7 +4,7 @@
 ### `Cybersecurity Specialist • Full-Stack Developer • Creative 3D Engineer`
 
 <p align="center">
-  <a href="https://allan-kj.github.io/Allan-portfolio/">
+  <a href="https://allan-kj.github.io/">
     <img src="https://img.shields.io/badge/🌐_Live_Portfolio-allan--kj.github.io-E11D48?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
   </a>
   <a href="https://linkedin.com/in/allan-k-j-21389838a">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<a href="https://allan-kj.github.io/Allan-portfolio/">
+<a href="https://allan-kj.github.io/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=F43F5E&center=true&vCenter=true&width=700&lines=Cybersecurity+Specialist+%26+Threat+Researcher;Full-Stack+%26+3D+Creative+Web+Developer;Smart+India+Hackathon+Developer+(PS+26160);Creator+of+IPsec+Sentinel+%26+GHOST+AI;Crafting+Fast%2C+Immersive+%26+Secured+Systems" alt="Typing SVG" />
 </a>
 
@@ -84,7 +84,7 @@
 
 | Project | Highlights & Capabilities | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **🌐 3D Interactive Portfolio** | High-performance 3D portfolio featuring interactive WebGL hero, responsive terminal emulator, Miles Morales chromatic glitch kinetic typography, and audio-reactive elements. | `Next.js 15` `Three.js` `R3F` `GSAP` `Tailwind` | [Live Site](https://allan-kj.github.io/Allan-portfolio/) • [Source](https://github.com/ALLAN-KJ/Allan-portfolio) |
+| **🌐 3D Interactive Portfolio** | High-performance 3D portfolio featuring interactive WebGL hero, responsive terminal emulator, Miles Morales chromatic glitch kinetic typography, and audio-reactive elements. | `Next.js 15` `Three.js` `R3F` `GSAP` `Tailwind` | [Live Site](https://allan-kj.github.io/) • [Source](https://github.com/ALLAN-KJ/allan-kj.github.io) |
 | **🛡️ IPsec Sentinel (SIH PS-26160)** | AI-powered IPsec VPN security analyzer developed for Smart India Hackathon Problem Statement 26160. Evaluates tunnel configurations, predicts vulnerabilities via XGBoost, assesses PQC readiness, and maintains Merkle audit trails. | `Python` `XGBoost` `IKEv2` `PQC` `FastAPI` | [Repository](https://github.com/ALLAN-KJ/SIH-2026-demo) |
 | **🤖 GHOST AI Assistant** | Autonomous voice-controlled AI desktop assistant with custom system command automation, natural language processing, and cybersecurity utilities. | `Python` `SpeechRecognition` `NLP` `Automation` | [Repository](https://github.com/ALLAN-KJ/GHOST2) |
 | **📖 3D Interactive Web Book** | An educational 3D interactive book reader built with canvas WebGL rendering, realistic page-turning physics, and custom camera tracking. | `Next.js` `Three.js` `Canvas` `GSAP` | [Repository](https://github.com/ALLAN-KJ/BOOK) |
@@ -121,7 +121,7 @@
 
 Whether you're looking to collaborate on cybersecurity research, construct immersive 3D web experiences, or discuss software engineering:
 
-[![Website](https://img.shields.io/badge/Portfolio-allan--kj.github.io-E11D48?style=for-the-badge&logo=google-chrome&logoColor=white)](https://allan-kj.github.io/Allan-portfolio/)
+[![Website](https://img.shields.io/badge/Portfolio-allan--kj.github.io-E11D48?style=for-the-badge&logo=google-chrome&logoColor=white)](https://allan-kj.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Allan%20K.J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allan-k-j-21389838a)
 [![Email](https://img.shields.io/badge/Email-allank%40karunya.edu.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allank@karunya.edu.in)
 
