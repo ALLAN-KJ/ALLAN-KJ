@@ -75,12 +75,13 @@
 
 ### 📜 Licenses & Certifications
 
-1. **Introduction to IoT and Digital Transformation** — *Cisco Networking Academy*
-2. **Red Hat System Administration I (RH124, Ver. 10)** — *Red Hat (RHA)*
-3. **Oracle Java Foundations (1Z0-811)** — *Oracle*
-4. **EC-Council Cybersecurity Workshop** — *EC-Council (1 CPE credit)*
-5. **AIORI-3 Workshop on Internet Measurements** — *MeitY / NIXI & APNIC Foundation (ISEA Initiative)*
-6. **Privacy and Security in Online Social Media** — *NPTEL (IIIT Hyderabad) — Score: 67%*
+1. **Introduction to IoT** — *Cisco Networking Academy*
+2. **Red Hat System Administration I (RH124 - RHA) - Ver. 10** — *Red Hat*
+3. **Artificial Intelligence Fundamentals** — *IBM SkillsBuild*
+4. **Oracle Java Foundations (1Z0-811)** — *Oracle*
+5. **EC-Council Cybersecurity Workshop** — *EC-Council (1 CPE credit)*
+6. **AIORI-3 Workshop on Internet Measurements** — *MeitY / NIXI & APNIC Foundation (ISEA Initiative)*
+7. **Privacy and Security in Online Social Media** — *NPTEL (IIIT Hyderabad) — Score: 67%*
 
 ---
 
